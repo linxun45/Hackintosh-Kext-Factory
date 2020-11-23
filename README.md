@@ -66,3 +66,4 @@
 
 ## Release 自行下载
 
+https://github.com/ClayMoreBoy/Hackintosh-Kext-Factory/releases
